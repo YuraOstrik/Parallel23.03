@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\bin\Debug\net8.0\Parallel23.03.exe
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\bin\Debug\net8.0\Parallel23.03.deps.json
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\bin\Debug\net8.0\Parallel23.03.runtimeconfig.json
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\bin\Debug\net8.0\Parallel23.03.dll
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\bin\Debug\net8.0\Parallel23.03.pdb
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\obj\Debug\net8.0\Parallel23.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\obj\Debug\net8.0\Parallel23.03.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\obj\Debug\net8.0\Parallel23.03.AssemblyInfo.cs
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\obj\Debug\net8.0\Parallel23.03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\obj\Debug\net8.0\Parallel23.03.dll
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\obj\Debug\net8.0\refint\Parallel23.03.dll
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\obj\Debug\net8.0\Parallel23.03.pdb
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\obj\Debug\net8.0\Parallel23.03.genruntimeconfig.cache
+C:\Users\User\source\repos\Parallel23.03\Parallel23.03\obj\Debug\net8.0\ref\Parallel23.03.dll
